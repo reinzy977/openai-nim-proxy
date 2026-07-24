@@ -30,7 +30,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'meta/llama-3.1-8b-instruct',
   'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b',
   'gemini-pro': 'mistralai/mistral-large-3-675b-instruct-2512', 
-  'gpt-5': 'moonshotai/kimi-k2.6'
+  'gpt-5': 'mistralai/mistral-small-4-119b-2603'
 };
 
 // Health check endpoint
