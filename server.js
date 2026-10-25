@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'z-ai/glm-5.3-flash',
   'claude-3-opus': 'meta/llama-3.1-8b-instruct',
   'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b',
-  'gemini-pro': 'mistralai/mistral-large-3-675b-instruct-2512', 
+  'gemini-pro': 'google/gemma-4-31b-it', 
   'gpt-5': 'mistralai/mistral-small-4-119b-2603'
 };
 
