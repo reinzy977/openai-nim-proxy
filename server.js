@@ -25,8 +25,8 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'deepseek-ai/deepseek-v4.1-flash',
   'gpt-4': 'moonshotai/kimi-k3',
-  'gpt-4-turbo': 'z-ai/glm-5-3',
-  'gpt-4o': 'z-ai/glm-5-3-flash',
+  'gpt-4-turbo': 'z-ai/glm-5.3',
+  'gpt-4o': 'z-ai/glm-5.3-flash',
   'claude-3-opus': 'minimaxai/minimax-m3.1-flash',
   'claude-3-sonnet': 'meta/llama-3.2-90b-vision-instruct',
   'gemini-pro': 'google/gemma-4-31b-it', 
