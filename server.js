@@ -27,8 +27,8 @@ const MODEL_MAPPING = {
   'gpt-4': 'moonshotai/kimi-k3',
   'gpt-4-turbo': 'z-ai/glm-5.3',
   'gpt-4o': 'z-ai/glm-5.3-flash',
-  'claude-3-opus': 'meta/llama-3.1-8b-instruct',
-  'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b',
+  'claude-3-opus': 'minimaxai/minimax-m3.1-flash',
+  'claude-3-sonnet': 'meta/llama-3.2-90b-vision-instruct',
   'gemini-pro': 'google/gemma-4-31b-it', 
   'gpt-5': 'nvidia/nemotron-3-ultra-550b-a55b'
 };
