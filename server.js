@@ -21,7 +21,7 @@ const ENABLE_THINKING_MODE = false;
 // Names you type in Janitor -> real NVIDIA model IDs (free ones only)
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'deepseek-ai/deepseek-v4.1-flash',
-  'gpt-4o': 'z-ai/glm-5.3-flash',
+  'gpt-4o': 'mistralai/mistral-large-4-1t-a52b',
   'gpt-4-turbo': 'z-ai/glm-5.3-flash',
   'gpt-4': 'minimaxai/minimax-m3.1-flash',
   'gemini-pro': 'google/gemma-4-31b-it',
