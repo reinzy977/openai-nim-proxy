@@ -14,7 +14,7 @@ const NIM_API_BASE = process.env.NIM_API_BASE || 'https://integrate.api.nvidia.c
 const NIM_API_KEY = process.env.NIM_API_KEY;
 
 // Show the model's reasoning inside <think> tags (keep true so you see something while it thinks)
-const SHOW_REASONING = true;
+const SHOW_REASONING = false;
 // Leave false (the guide says never turn this on)
 const ENABLE_THINKING_MODE = false;
 
