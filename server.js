@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'z-ai/glm-5.3-flash',
   'gpt-4': 'minimaxai/minimax-m3.1-flash',
   'gemini-pro': 'google/gemma-4-31b-it',
-  'gpt-oss': 'openai/gpt-oss-20b',
+  'gpt-oss': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'gpt-5': 'nvidia/nemotron-3-ultra-550b-a55b'
 };
 
